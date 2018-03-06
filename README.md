@@ -14,3 +14,10 @@ Day 2
 - Basic Guide: http://rogerdudler.github.io/git-guide/
 - Source Tree App: https://www.sourcetreeapp.com/
 - GitKraken: https://www.gitkraken.com/
+
+Day 3
+- UX/UI Intro
+- Tools For Mock up & Prototyping 
+- Node Intro & install (bower , npm , yarn ) : http://nodejs.org
+- Install App + Run 
+- Automation Testing (Robotframework & SeleniumLibrary) : https://www.python.org , http://robotframework.org , https://github.com/robotframework/SeleniumLibrary
