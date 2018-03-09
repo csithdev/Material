@@ -25,3 +25,7 @@ docker build -t xx/xx:1.0
 LINE : best.pukapon
 Email :pukapon.b@csithailand.com 
 Email :pukapon.b@outlook.com
+Tel : 090-926-6560 (office)
+meen -> UI
+Benz -> Backend
+Meen -> UX/UI
