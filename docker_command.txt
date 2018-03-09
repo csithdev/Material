@@ -1,0 +1,27 @@
+https://github.com/csithdev/nodejs-starter
+https://jenkins.io/doc/
+
+docker ps -a
+docker run -p -v node:8.9
+docker logs container_name
+docker exec -it -uroot container_name sh 
+
+
+docker start container_name
+docker stop container_name
+docker rm container_name
+
+docker container prune
+docker images prune
+docker volume prune
+docker network prune
+
+docker-compose up
+docker-compose restart
+docker-compose down
+
+docker build -t xx/xx:1.0 
+
+LINE : best.pukapon
+Email :pukapon.b@csithailand.com 
+Email :pukapon.b@outlook.com
